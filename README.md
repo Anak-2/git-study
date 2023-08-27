@@ -1,2 +1,2 @@
 # git-study
-studying git coop
+merge myself
