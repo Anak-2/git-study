@@ -1,2 +1,2 @@
 # git-study
-add reviewer
+add reviewer in public repo
