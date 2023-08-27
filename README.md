@@ -1,2 +1,2 @@
 # git-study
-conflict merge accepted
+add reviewer
