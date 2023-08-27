@@ -1,2 +1,2 @@
 # git-study
-merge myself
+conflict merge accepted
