@@ -1,2 +1,3 @@
-write1 from master
 commit2 a
+commit2 branch-b
+write1 from master
