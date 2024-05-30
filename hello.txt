@@ -1,2 +1,1 @@
-write from master;
-branch-a write2;
+write from master
