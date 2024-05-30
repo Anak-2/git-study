@@ -1,2 +1,2 @@
 commit2 master
-commit1 a
+commit2 a
